@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+print("Hello"
+print(age)
+"Age:" +18
+inc("cat")
+import sys; print(sys.argv[1])
+-bash: ./errors.py: No such file or directory
